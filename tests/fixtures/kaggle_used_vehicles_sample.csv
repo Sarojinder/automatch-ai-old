@@ -1,0 +1,4 @@
+Unnamed: 0,Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+0,2021,Toyota,Camry,53052 km,Sedan,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,8.5L/100km,6.1L/100km,28900
+1,2022,BMW,M440i,36000 km,Coupe,3.0L 6cyl Turbo,8 Speed Automatic,AWD,Blue,Black,4,2,Gas,10.2L/100km,7.5L/100km,55900
+2,2010,Ford,Focus,180000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Black,Grey,5,4,Gas,9.0L/100km,6.7L/100km,0

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Performance car on a road">
+  <rect width="1200" height="720" fill="#dfe9e2"/>
+  <path d="M0 520 C220 420 380 430 560 500 C760 575 960 565 1200 470 L1200 720 L0 720 Z" fill="#203229"/>
+  <path d="M240 720 C390 560 560 510 720 520 C900 532 1020 610 1120 720 Z" fill="#f4f7f5"/>
+  <path d="M480 635 C590 585 720 585 840 635" fill="none" stroke="#0d7a59" stroke-width="16" stroke-linecap="round"/>
+  <g transform="translate(330 360)">
+    <path d="M80 145 L138 78 C168 43 214 24 264 24 L486 24 C536 24 578 44 606 80 L660 145 L710 158 C736 165 754 188 754 215 L754 260 L26 260 L26 214 C26 187 45 164 72 157 Z" fill="#ffffff"/>
+    <path d="M166 92 C190 67 220 56 262 56 L480 56 C518 56 545 68 568 92 L604 136 L126 136 Z" fill="#a9dfc9"/>
+    <rect x="98" y="184" width="180" height="32" rx="8" fill="#0d7a59"/>
+    <rect x="494" y="184" width="162" height="32" rx="8" fill="#0d7a59"/>
+    <circle cx="190" cy="260" r="58" fill="#17211c"/>
+    <circle cx="190" cy="260" r="24" fill="#dfe9e2"/>
+    <circle cx="590" cy="260" r="58" fill="#17211c"/>
+    <circle cx="590" cy="260" r="24" fill="#dfe9e2"/>
+  </g>
+</svg>

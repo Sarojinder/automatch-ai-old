@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Hatchback vehicle">
+  <rect width="900" height="560" fill="#eef5f1"/>
+  <path d="M92 338 L160 248 C196 200 250 176 320 176 L520 176 C596 176 652 206 690 258 L764 338 L806 350 C832 358 850 382 850 408 L850 432 L50 432 L50 398 C50 370 66 348 92 338 Z" fill="#ffffff" stroke="#cddad2" stroke-width="5"/>
+  <path d="M222 254 C252 222 288 210 334 210 L520 210 C566 210 606 226 636 262 L668 304 L186 304 Z" fill="#a9dfc9"/>
+  <rect x="132" y="358" width="154" height="30" rx="8" fill="#0d7a59"/>
+  <rect x="584" y="358" width="154" height="30" rx="8" fill="#0d7a59"/>
+  <circle cx="230" cy="432" r="66" fill="#17211c"/>
+  <circle cx="230" cy="432" r="27" fill="#dfe9e2"/>
+  <circle cx="662" cy="432" r="66" fill="#17211c"/>
+  <circle cx="662" cy="432" r="27" fill="#dfe9e2"/>
+</svg>

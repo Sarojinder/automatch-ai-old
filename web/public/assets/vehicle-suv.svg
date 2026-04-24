@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="SUV vehicle">
+  <rect width="900" height="560" fill="#eef5f1"/>
+  <path d="M92 332 L154 230 C184 180 244 150 318 150 L560 150 C632 150 690 180 724 230 L800 334 L828 344 C850 352 864 372 864 396 L864 438 L36 438 L36 396 C36 370 54 346 80 338 Z" fill="#ffffff" stroke="#cddad2" stroke-width="5"/>
+  <path d="M214 238 C238 205 280 188 330 188 L560 188 C600 188 638 206 666 238 L704 302 L176 302 Z" fill="#a9dfc9"/>
+  <rect x="130" y="354" width="172" height="34" rx="8" fill="#0d7a59"/>
+  <rect x="596" y="354" width="170" height="34" rx="8" fill="#0d7a59"/>
+  <circle cx="232" cy="438" r="72" fill="#17211c"/>
+  <circle cx="232" cy="438" r="30" fill="#dfe9e2"/>
+  <circle cx="674" cy="438" r="72" fill="#17211c"/>
+  <circle cx="674" cy="438" r="30" fill="#dfe9e2"/>
+</svg>

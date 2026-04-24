@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Sedan vehicle">
+  <rect width="900" height="560" fill="#eef5f1"/>
+  <path d="M120 330 L190 238 C225 190 286 164 360 164 L540 164 C610 164 668 192 704 238 L780 330 L812 340 C836 348 852 370 852 396 L852 430 L48 430 L48 394 C48 368 65 346 90 338 Z" fill="#ffffff" stroke="#cddad2" stroke-width="5"/>
+  <path d="M244 250 C275 218 310 204 360 204 L535 204 C580 204 614 219 644 250 L682 302 L202 302 Z" fill="#a9dfc9"/>
+  <rect x="138" y="356" width="164" height="32" rx="8" fill="#0d7a59"/>
+  <rect x="594" y="356" width="150" height="32" rx="8" fill="#0d7a59"/>
+  <circle cx="230" cy="430" r="66" fill="#17211c"/>
+  <circle cx="230" cy="430" r="28" fill="#dfe9e2"/>
+  <circle cx="670" cy="430" r="66" fill="#17211c"/>
+  <circle cx="670" cy="430" r="28" fill="#dfe9e2"/>
+</svg>

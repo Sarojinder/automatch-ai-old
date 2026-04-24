@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Coupe vehicle">
+  <rect width="900" height="560" fill="#eef5f1"/>
+  <path d="M90 344 L176 260 C236 202 310 174 420 174 L514 174 C590 174 654 205 700 260 L778 342 L820 354 C842 362 856 382 856 406 L856 428 L44 428 L44 398 C44 374 62 352 90 344 Z" fill="#ffffff" stroke="#cddad2" stroke-width="5"/>
+  <path d="M276 258 C318 222 370 208 430 208 L506 208 C552 208 594 224 626 258 L660 304 L226 304 Z" fill="#a9dfc9"/>
+  <rect x="122" y="358" width="160" height="30" rx="8" fill="#0d7a59"/>
+  <rect x="610" y="358" width="150" height="30" rx="8" fill="#0d7a59"/>
+  <circle cx="230" cy="428" r="66" fill="#17211c"/>
+  <circle cx="230" cy="428" r="27" fill="#dfe9e2"/>
+  <circle cx="674" cy="428" r="66" fill="#17211c"/>
+  <circle cx="674" cy="428" r="27" fill="#dfe9e2"/>
+</svg>
